@@ -1,0 +1,12 @@
+D:\my downloads\http-server-main\HTTPServer\bin\Debug\HTTPServer.exe
+D:\my downloads\http-server-main\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\my downloads\http-server-main\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\my downloads\http-server-main\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\my downloads\http-server-main\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\my downloads\http-server-main\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+C:\Users\Alaa\Downloads\http-server-main\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\Alaa\Downloads\http-server-main\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\Alaa\Downloads\http-server-main\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\Users\Alaa\Downloads\http-server-main\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Alaa\Downloads\http-server-main\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\Alaa\Downloads\http-server-main\HTTPServer\obj\x86\Debug\HTTPServer.pdb
